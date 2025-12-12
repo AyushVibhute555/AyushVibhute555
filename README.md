@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working at Trubot AI Startup.<br>🎓 BTech Computer Science Engr. (Data Science).<br>👯 I’m looking to collaborate on Full Stack Project.<br>🌱 I’m currently learning Data Science and Machine Learning.<br>💬 Ask me about Web Development.<br>⚡ Fun fact: If I am not coding then I am at GYM💪.
+🔭 I’m currently working at Trubot AI Startup as Full Stack AI/ML Developer.<br>🎓 BTech Computer Science Engr. (Data Science).<br>👯 I’m looking to collaborate on Full Stack Project.<br>🌱 I’m currently learning Data Science and Machine Learning.<br>💬 Ask me about Web Development.<br>⚡ Fun fact: If I am not coding then I am at GYM💪.
 
 
 ## 🌐 Socials:
